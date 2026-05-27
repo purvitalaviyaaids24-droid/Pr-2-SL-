@@ -136,6 +136,7 @@ Use larger real-world datasets
 Perform feature engineering
 Deploy model using Flask/Streamlit
 Improve accuracy using advanced ensemble methods
+
 👩‍💻 Author
 
 Purvi Talaviya
